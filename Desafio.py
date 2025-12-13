@@ -13,8 +13,8 @@ limite = 500
 extrato = ""
 numero_saques = 0
 LIMITE_SAQUES = 3
-usuario = [{'nome': 'joel', 'data_nascimento': '15/11/2001', 'cpf': '10110110110', 'endereco': {'logradouro': 'd', 'numero': 'd', 'bairro': 'd', 'cidade': 'd', 'estado': 'd'}}]
-conta = [{'agencia': '0001', 'num_conta': 1, 'user': '10110110110'}]
+usuario = []
+conta = []
 
 
 """
